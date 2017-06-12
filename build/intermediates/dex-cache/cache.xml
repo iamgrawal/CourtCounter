@@ -2,22 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\work\internship\CourtCounter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ee36f11882607548e0e9776387f295a6da2e4926\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bd3544fbd1ab231d16851a7ae0100c89168efe44\classes.dex" />
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_fe593e3b087bce22c0ffa5e1789401acde968e3a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\work\internship\CourtCounter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\f7675bf5faf862fa50739137cc853a9d230eb953\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="84bce6b114ee2a5ad2825f1152531a86c6ac35c9">
-        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e9d5fb5c2c931947253ccf0ba2218b5180675347\classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_df6109f99c5de545d6b15e02e27eb935980bce47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\fe9224aa24c6809a754f91b0c5b7e3ab6c80e8ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_6bdab6cd728d6edfbf032b1380fd810f23f1cc37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\43a1ce9226b51fc45b5438187d2b675373badf39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_db4799b24aa2d72e969a942ee7a1fd03897b4db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8bb98088595ed46114477afff2344d5f73d866b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_f854c90559c77be7f911ec050ff598d38d5a94bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\6641c1d6edd829de8bb34e4b64a75629d6d2cded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_29adace99667d793806168e2627d188534396888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ed54e2709b116d10e8ca0b9ff982cd37bd62cc82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_a5667b04d125d96ebe03c87668119ffae784154c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\512dcf42081cc03bc71dbe2454c5c23b637aae48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_fa8900fe95585432bb9ccd49d76cc7c6b65ae8be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\19bfc2607cd045cbb37a0e51d01422b999aa8a83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_76d133fa68de85b406bc4c547a24bc1246544294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\0964f0a5882a520c3529b87f14b0fbe361abcff4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\work\internship\CourtCounter\app\build\intermediates\pre-dexed\debug\classes_3bddea4b80e5c29f78c216e978f9fca92ffc1271.jar" />
     </item>
 
 </items>
